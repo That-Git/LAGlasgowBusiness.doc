@@ -117,7 +117,7 @@ Try and find the following <ins>key words</ins> in the word search below.
 * RESOURCES
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| - | - | - | - | - | - | - | - | - |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | A | N | E | R | Y | L | K | L | J | J  | W  | E  | A  | D  | Q  | M  | F  | H  | Q  | D  |
 | D | Y | E | J | K | L | D | H | J | K  | W  | L  | W  | Q  | J  | H  | T  | W  | K  | U  |
 | L | I | U | E | S | S | D | M | H | J  | H  | A  | Y  | R  | K  | H  | D  | C  | M  | R  |
