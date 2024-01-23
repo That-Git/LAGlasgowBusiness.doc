@@ -193,29 +193,77 @@ Businesses exist to produce different goods and services and as such exist in di
 | This sector has declined in the UK.                             | This sector has increased in the UK.                             |
 | Today there are fewer firms who actually manufacture a product. | Today there are more businesses that actually provide a service. |
 
-## <ins>Task 7</ins>
+## <ins>Task 8</ins>
 Decide which sector each of the following areas of business should be included – primary, secondary or tertiary.
 
-The first one has been completed for you
+The first two have been completed for you
 
-| Area of Business     | Primary | Secondary | Tertiary |
-| -------------------- | :-----: | :-------: | :------: |
-| Car manufacturing    | <ul><li>[ ] ?</li></ul> | <ul><li>[x] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Insurance            | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Education            | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Fishing              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Public transport     | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Farming              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Fire service         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Ship building        | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Mining               | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Wind production      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Forestry             | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Hairdressing         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Engineering industry | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Leisure industry     | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Stone quarrying      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
-| Oil refinery         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Area of Business             | Primary                 | Secondary               | Tertiary                |
+| ---------------------------- | :---------------------: | :---------------------: | :---------------------: |
+| Car manufacturing            | <ul><li>[ ] ?</li></ul> | <ul><li>[x] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Airline company              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[x] ?</li></ul> |
+| Insurance                    | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Persimmon House Construction | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Education                    | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Butchers shop                | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Fishing                      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Plumber                      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Public transport             | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Car manufacturer             | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Farming                      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Furniture maker              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Fire service                 | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Estate agent                 | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Ship building                | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Local radio station          | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Mining                       | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Teacher                      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Wind production              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Doctor                       | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Forestry                     | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Lawyer                       | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Hairdressing                 | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Engineering industry         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Leisure industry             | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Stone quarrying              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Oil refinery                 | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
 
-- [ ] not working?
-- [ ] working?
+## <ins>Task 9</ins>
+### Progress Check 1
+Answer the following questions in sentences on A4 paper.
+
+1. Using examples, explain the difference between a consumer need and a consumer want.(4)
+2. Give an example of a business or organisation which provides a service for consumers.(2)
+3. What does the word ‘durable’ mean? Give one example of a durable good.(2)
+4. Explain, using examples, what is meant by tangible goods and intangible services.(4)
+5. Name the 4 Factors of Production and give one example of each.(4)
+6. Name one famous entrepreneur that you have heard of.(1)
+7. Businesses can be classified as belonging to one of 3 sectors of industry. What is the name given to each of these 3 sectors?(3)
+8. State one example of a type of business that belongs to each of the 3 sectors.(3)
+
+TOTAL MARKS: 23
+
+Before you submit your work to your teacher, remember to indicate (by ticking the boxes below) that you have self assessed and peer assessed.
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
+### <ins>Enterprise and Entrepreneurs</ins>
+#### <ins>Definition</ins>
+An entrepreneur is an individual who develops a business idea and combines the factors of production – land, labour and capital – in order to produce a good or provide a service usually with a view to earning profit.
+
+An entrepreneur is someone who has a good BUSINESS idea and is prepared to take the risk of investing their money to develop the idea.
+
+Most entrepreneurs start as a small business and are responsible for all aspects of managing it. However, as the business grows, the role of the entrepreneur may alter as he/she will then have to employ workers and managers and delegate work for them to carry out.
+
+## <ins>Task 10</ins>
+Use the Internet and find out what products or services the following entrepreneurs have had success with.
+
+| Entrepreneur     | Product/Service |
+| ---------------- | --------------- |
+| Anita Roddick    |                 |
+| Alan Sugar       |                 |
+| Richard Branson  |                 |
+| Tom Farmer       |                 |
+| Duncan Bannatyne |                 |
+| Michelle Mone    |                 |
+
