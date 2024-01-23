@@ -38,7 +38,7 @@ Businesses exist to look after or satisfy these NEEDS and WANTS. They make goods
 |CD players      |Insurance       |
 |Sweets          |Banking         |
 |Clothes         |Enterainment    |
-|Seafood         |(eg, cinema and |
-|Shoes           |theatre)        |
+|Seafood         |(eg, cinema     |
+|Shoes           |and theatre)    |
 |Furniture       |Education       |
 |Books           |Public Transport|
