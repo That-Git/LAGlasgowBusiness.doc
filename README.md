@@ -110,6 +110,7 @@ Try and find the following <ins>key words</ins> in the word search below.
 * TANGIBLE
 * INTANGIBLE
 * RESOURCES
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | A | N | E | R | Y | L | K | L | J | J | W | E | A | D | Q | M | F | H | Q | D |
 | D | Y | E | J | K | L | D | H | J | K | W | L | W | Q | J | H | T | W | K | U |
 | L | I | U | E | S | S | D | M | H | J | H | A | Y | R | K | H | D | C | M | R |
