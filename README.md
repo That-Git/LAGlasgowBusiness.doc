@@ -482,3 +482,19 @@ MORTGAGE | A common method of financing land and premises such as shops is to ta
 LONG-TERM BANK LOAN | The bank may grant a loan for a fixed amount, to be paid back over a fixed period of time in fixed instalments. A long-term loan might be taken out to buy a very expensive piece of machinery and be re-paid over a 5 year period. As such the business is able to purchase machinery now and use it in the business to start generating profit. | The business has now incurred debts and must ensure that all monthly payments are made on time. Interest is usually charged on top of the initial loan amount and so this can be a very expensive way of purchasing equipment and machinery. |
 GRANT | A Source of finance from central government or local government, Business Gateway or the Princes Trust. In most cases the money does not have to be repaid. | It is usually a one-off payment and certain conditions or criteria must be met before it can be obtained. Usually the business is told what the money must be used for. |
 RETAINED PROFITS | A business can use its profits to purchase machinery and equipment. The advantage is that there is no interest to be paid and the business is not incurring any debts. The business will own the assets straight away. | When a business spends all of its profits it can run into cash flow problems. They may not be able to pay for any unexpected costs or expenses as all profit has been spent. |
+### <ins>Task 18<ins>
+#### Progress Check 3
+Answer the following questions in sentences on A4 paper
+
+1. What is the purpose of preparing a Business Plan? (2)
+2. Why is it important to have a thorough and convincing Business Plan? (1)
+3. What essential information should be included in a basic Business Plan? (4)
+4. What is meant by the term ‘competitor’? (1)
+5. Name and explain the most appropriate source of finance for an entrepreneur wishing to purchase a shop costing £150,000. (3)
+6. What is meant by the term ‘market research’? (2)
+7. Explain the difference between leasing a motor vehicle and purchasing a motor vehicle using hire purchase. (4)
+8. What do the following sources of finance all have in common: (1)
+    - Bank overdraft
+    - mortgage
+    - short-term
+    - loan
