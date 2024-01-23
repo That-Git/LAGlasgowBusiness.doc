@@ -331,4 +331,55 @@ Find the following key words in the word search below:
 | G | H | L | O | P | J | O | Y | L | S  | R  | P  | F  | B  | B  | B  | Q  | O  | C  | V  |
 | B | E | N | T | R | E | P | R | E | N  | E  | U  | R  | B  | H  | K  | T  | C  | N  | G  |
 | W | R | Y | U | I | I | L | O | P | B  | E  | H  | F  | G  | G  | F  | G  | E  | R  | Q  |
+### <ins>Sources of Help and Advice</ins>
+There are many sources of help and advice available for small businesses. A great deal of advice is available on-line. In addition many organisations exist that provide support to new and developing businesses. Here are some examples.
+#### <ins>Bank</ins>
+A bank will give financial advice, eg, on how to manage money coming in and going out of your business.
+#### <ins>Enterprise Agency</ins>
+For example Business Gateway offers free business advice and support service through local advisers. They offer training courses for people wanting to set up a new business and give advice on such things as preparing a business plan.
+#### <ins>Lawyer</ins>
+A lawyer will provide legal advice to keep you on the right side of business law.
+#### <ins>Chambers of Commerce</ins>
+A local chambers of commerce – an organisation set up to help business people network (make contact with other business people who may support them). It will also offer advice on how your business can become more competitive and successful.
+#### <ins>Entrepreneurs</ins>
+Other entrepreneurs may give advice on which suppliers to choose or what mistakes to avoid.
+#### <ins>World Wide Web (Internet)</ins>
+A vast amount of information is available on line which provides advice for people thinking about starting up in business.
+#### <ins>The Princess Trust</ins>
+The Princess Trust provides practical and financial support for young people (18-30) setting up in business. It will assist them with producing a business plan, give advice on applying for grants and will also provide grants if certain criteria are met.
+### <ins>Task 13<ins>
+[Using the Internet access the website](www.princes-trust.org.uk)
+Watch the video clip and study the website and then answer the following questions on a sheet of A4 paper:
+1. What criteria must be met to qualify for support from the Princes Trust?
+2. How do you apply for support?
+3. What help and support may be offered?
+## <ins>Cycle of Business</ins>
+The process of buying and selling goods is an on-going process. This is the reason that enterprise is a long term process and why many shops have been on the ‘High Street’ for a very long time, for example, Marks and Spencer’s, Next and New Look.
+#### Study the diagram below.
+[<page 19>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/3)
+##### STEPS
+1. Entrepreneurs set up in business selling goods and services that consumers need and want.
+2. Consumers use their income and go out to the shops and buy goods and services in order to satisfy their needs and wants.
+3. The businesses supplying the goods and services begin to earn PROFIT and this means they can pay employees wages and the owners also become wealthy.
+4. Consumers now have even more income to spend (from their wages) and so want even more goods and services.
+5. Businesses are now required to expand and produce more goods and services for consumers - and so the PROCESS goes on.
+### <ins>Task 14<ins>
+#### Progress Check 2
+Answer the following questions in sentences on A4 paper.
+
+1. Explain what is meant by an entrepreneur.(2)
+2. Identify and briefly explain the key skills an entrepreneur should possess.(5)
+3. What is meant by the term “gap in the market”.(2)
+4. Briefly describe the main sources of help and advice available to small businesses or to someone thinking about setting up in business.(6)
+5. Explain why the ‘cycle of business’ is an on-going process.(4)
+6. In what ways can a business use the law to protect their business idea or product?(1)
+7. Name 2 British successful entrepreneurs and identify the product that led to their success.(4)
+8. There are 3 main sectors of industry – primary, secondary and tertiary. What sector would an estate agent belong to? Why?(3)
+
+TOTAL MARKS: 27
+
+Before you submit your work to your teacher, remember to indicate (by ticking the boxes below) that you have self assessed and peer assessed.
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
 
