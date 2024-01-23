@@ -16,6 +16,7 @@ We buy the goods and services provided by a range of businesses – we are calle
 + Food/Water
 + Clothing
 + Shelter
+
 Once these needs have been satisfied individuals always look for and want more in order to make their lives more comfortable and enjoyable. For example we do not NEED a new iPad to survive, we just WANT it. Perhaps we have seen it advertised on TV or a friend has one and so we would want one also.
 - Holidays
 - Cars
@@ -149,6 +150,7 @@ In order to make a good or provide a service a number of ingredients/resources a
 ## FACTORS OF PRODUCTION
 [<page 7>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/2)
 ## <ins>Task 7</ins>
+
 If you were to make a list of the resources (ingredients) which are required to build a house, your list might include:
 * Wood
 * Joiners
@@ -165,6 +167,7 @@ If you were to make a list of the resources (ingredients) which are required to 
 * Glass
 * Nails
 * Brick Layers
+
 Complete the table below by placing each resource under the appropriate heading.
 
 | Land | Labour | Capital | Enterprise |
@@ -181,6 +184,10 @@ Businesses exist to produce different goods and services and as such exist in di
 * PRIMARY
 * SECONDARY
 * TERTIARY
+
 Businesses which exist in the primary sector of industry are those that are concerned with using natural resources such as farming, oil drilling, mining, fishing, and forestry. In other words these businesses are concerned with growing products or extracting resources from the ground.
+
 Businesses which exist in the secondary or manufacturing sector of industry are concerned with the making of products. Manufacturing businesses can take the raw materials from other industries in the primary sector and convert them into different products. For example kellogg’s will purchase crops from farmers to manufacture breakfast cereal.
+
 Businesses which exist in the tertiary sector do not produce a product. They are concerned with providing services like banking, tourism, beauticians, hairdressers, fitness centres and entertainment like film and TV.
+
