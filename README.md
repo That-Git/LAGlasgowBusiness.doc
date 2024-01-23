@@ -110,25 +110,26 @@ Try and find the following <ins>key words</ins> in the word search below.
 * TANGIBLE
 * INTANGIBLE
 * RESOURCES
+
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| A | N | E | R | Y | L | K | L | J | J | W | E | A | D | Q | M | F | H | Q | D |
-| D | Y | E | J | K | L | D | H | J | K | W | L | W | Q | J | H | T | W | K | U |
-| L | I | U | E | S | S | D | M | H | J | H | A | Y | R | K | H | D | C | M | R |
-| E | V | Q | C | D | V | C | X | Z | W | Q | E | N | H | Q | E | H | W | G | A |
-| J | Q | W | R | Y | U | S | B | H | F | D | Q | E | R | J | J | L | R | W | B |
-| T | V | W | C | C | B | C | X | V | W | V | W | R | T | A | I | M | S | K | L |
-| A | L | E | H | Q | K | Q | E | K | R | E | N | Q | J | Y | A | H | J | K | E |
-| N | B | U | S | I | N | E | S | S | H | S | J | R | H | Q | J | I | K | Q | J |
-| G | L | W | J | S | N | W | J | K | E | J | T | Q | N | J | J | N | Y | Q | J |
-| I | H | J | Q | V | J | W | H | J | Q | J | K | J | 0 | Y | J | T | G | E | Q |
-| B | K | J | J | J | K | W | M | H | G | H | J | H | N | B | Q | A | E | H | K |
-| L | S | J | Q | E | R | H | R | L | O | H | K | Y | D | F | G | N | H | J | L |
-| E | L | E | G | H | Q | H | H | E | O | H | Y | E | U | J | T | G | H | H | L |
-| K | G | J | R | H | W | G | J | M | D | J | K | W | R | Q | W | I | Q | R | Y |
-| M | K | K | R | V | Y | P | P | W | E | T | Y | I | A | Y | O | B | H | D | U |
-| N | J | T | K | R | I | Y | L | P | P | Y | O | P | B | P | K | L | I | P | Q |
-| L | U | I | U | U | T | C | H | D | K | K | L | Y | L | L | K | E | K | L | P |
-| Y | I | Y | L | U | U | Y | E | F | K | K | L | N | E | U | L | Y | J | K | E |
-| E | R | O | T | T | P | Y | H | V | L | Q | N | K | Q | Y | M | O | G | J | O |
-| J | Y | P | R | E | S | O | U | R | C | E | S | J | G | T | T | P | L | Y | R |
+| - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A | N | E | R | Y | L | K | L | J | J  | W  | E  | A  | D  | Q  | M  | F  | H  | Q  | D  |
+| D | Y | E | J | K | L | D | H | J | K  | W  | L  | W  | Q  | J  | H  | T  | W  | K  | U  |
+| L | I | U | E | S | S | D | M | H | J  | H  | A  | Y  | R  | K  | H  | D  | C  | M  | R  |
+| E | V | Q | C | D | V | C | X | Z | W  | Q  | E  | N  | H  | Q  | E  | H  | W  | G  | A  |
+| J | Q | W | R | Y | U | S | B | H | F  | D  | Q  | E  | R  | J  | J  | L  | R  | W  | B  |
+| T | V | W | C | C | B | C | X | V | W  | V  | W  | R  | T  | A  | I  | M  | S  | K  | L  |
+| A | L | E | H | Q | K | Q | E | K | R  | E  | N  | Q  | J  | Y  | A  | H  | J  | K  | E  |
+| N | B | U | S | I | N | E | S | S | H  | S  | J  | R  | H  | Q  | J  | I  | K  | Q  | J  |
+| G | L | W | J | S | N | W | J | K | E  | J  | T  | Q  | N  | J  | J  | N  | Y  | Q  | J  |
+| I | H | J | Q | V | J | W | H | J | Q  | J  | K  | J  | 0  | Y  | J  | T  | G  | E  | Q  |
+| B | K | J | J | J | K | W | M | H | G  | H  | J  | H  | N  | B  | Q  | A  | E  | H  | K  |
+| L | S | J | Q | E | R | H | R | L | O  | H  | K  | Y  | D  | F  | G  | N  | H  | J  | L  |
+| E | L | E | G | H | Q | H | H | E | O  | H  | Y  | E  | U  | J  | T  | G  | H  | H  | L  |
+| K | G | J | R | H | W | G | J | M | D  | J  | K  | W  | R  | Q  | W  | I  | Q  | R  | Y  |
+| M | K | K | R | V | Y | P | P | W | E  | T  | Y  | I  | A  | Y  | O  | B  | H  | D  | U  |
+| N | J | T | K | R | I | Y | L | P | P  | Y  | O  | P  | B  | P  | K  | L  | I  | P  | Q  |
+| L | U | I | U | U | T | C | H | D | K  | K  | L  | Y  | L  | L  | K  | E  | K  | L  | P  |
+| Y | I | Y | L | U | U | Y | E | F | K  | K  | L  | N  | E  | U  | L  | Y  | J  | K  | E  |
+| E | R | O | T | T | P | Y | H | V | L  | Q  | N  | K  | Q  | Y  | M  | O  | G  | J  | O  |
+| J | Y | P | R | E | S | O | U | R | C  | E  | S  | J  | G  | T  | T  | P  | L  | Y  | R  |
