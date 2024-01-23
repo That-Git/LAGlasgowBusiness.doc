@@ -427,4 +427,40 @@ The Business Plan can also be used when planning for expansion. You may want to 
 | THE MARKET | <ol><li>Who are the customers?</li><li>Price of the goods services.</li><li>Who are the main competitors?</li><li>Market research results</li></ol> | <ol><li>Consumers of all ages based in the Baillieston area.</li><li>25% mark-up on all goods purchased</li><li>2 other Card shops located within a 25 mile radius.</li><li>Who would buy our products and what price they were willing to pay</li></ol> |
 | FINANCE | <ol><li>Who are the investors and where is the money coming from?</li><li>Estimated cash budget and trading, profit and loss statements.</li><li>Costs and expected revenue</li></ol> | <ol><li>Start up capital invested by sole trader and external financing, eg, bank</li><li>Estimated Cash Budget, T,P and Loss Account and Balance Sheet provided.</li><li>Costs – stock, maintenance, wages and general expenses. Revenue shown on Break-even chart provided.</li></ol> |
 
+##### Study the business plan above and then answer the following questions on A4 paper.
+1. What type of business is being created?
+2. How is the new venture being financed?
+3. Are there any potential competitors, which could be a threat to the new business?
+4. Are there any potential competitors, which could be a threat to the new business?
+5. What are likely to be the main costs for the business?
+6. What did the market research focus on?
+### <ins>Task 17<ins>
+#### <ins>Case Study – completing a Business Plan</ins>
+###### (You may wish to work in pairs to complete this task)
 
+You have decided to open a business - Ground Force - using your skills as a landscape gardener. You have worked with a local firm and have spotted a <ins>*gap in the market*</ins> for a local domestic gardening service.
+
+You will be working from your own home – a room in your house will be converted into an office for the business. You will provide a full garden design service including paving, decking, laying lawns and planting trees and shrubs.
+
+Your market includes retired people and working families who are keen to upgrade their gardens. Most Glasgow based companies specialise in garden maintenance rather than garden design and deal mainly with commercial companies, so there is very little competition. You will initially distribute leaflets around the area to let people know about your business. You also plan to advertise in local shops and newspapers.
+
+You will need to employ 2 other people to work with you – someone who has expertise in building walls and a qualified gardener. You will do all your own paperwork and carry a mobile phone to save the expense of an Administrative Assistant.
+
+You estimate your income to be £45,000. You know this is realistic having worked locally for a landscape company.
+
+Cash flow will be a problem. You are at present trying to negotiate credit terms of 60 days from your suppliers and will only accept cash payments from your customers – you will not offer customers any work on credit. You will pay all bills from the cash you receive. Estimated costs in the first year are £14,000 giving an estimated profit of £31,000.
+
+You are lucky enough to have had a small lottery win and have £8,000 to invest in your business. You will use some of this money to buy the following equipment: spades, rakes, lawnmowers and cement mixers etc.
+##### <ins>You should:</ins>
+1. Draft your Business Plan on the template provided on the next page.
+2. Access your computer and load the electronic template ‘Business Plan’ and complete a final version of your plan.
+3. Put your name in the footer and print one copy. Save your work using the filename BP1/own initials.
+4. You should display your Business Plan on the classroom wall.
+##### <ins>Remember to:</ins>
+- [ ] Self Assessed
+- [ ] Peer Assessed
+## BUSINESS PLAN
+| Business Details | Product Details | Market Structure | Marketing Information | Resources Required | Finance Required |
+| - | - | - | - | - | - |
+| <ul><li>Business Name:</li><li>Business Address:</li><li>Business Type:</li></ul> | <ul><li>Product/Service:</li></ul> | <ul><li>Customers:</li><li>Competitors:</li></ul> | <ul><li>Pricing/mark-up:</li><li>Promotion:</li><li>Place it will be sold:</li></ul> | <ul><li>Staff:</li><li>Premises:</li><li>Equipment:</li></ul> | <ul><li>Start up:</li></ul> | <ul><li>Sales Income:</li><li>Costs:</li><li>Estimated Profits:</li></ul> |
+Remember to complete your final copy on the computer!
