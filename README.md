@@ -200,22 +200,22 @@ The first one has been completed for you
 
 | Area of Business     | Primary | Secondary | Tertiary |
 | -------------------- | :-----: | :-------: | :------: |
-| Car manufacturing    | - [ ] ? | - [x] ?   | - [ ] ?  |
-| Insurance            | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Education            | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Fishing              | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Public transport     | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Farming              | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Fire service         | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Ship building        | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Mining               | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Wind production      | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Forestry             | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Hairdressing         | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Engineering industry | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Leisure industry     | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Stone quarrying      | - [ ] ? | - [ ] ?   | - [ ] ?  |
-| Oil refinery         | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Car manufacturing    | - [ ] ok? | - [x] ok? | - [ ] ok? |
+| Insurance            | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Education            | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Fishing              | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Public transport     | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Farming              | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Fire service         | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Ship building        | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Mining               | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Wind production      | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Forestry             | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Hairdressing         | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Engineering industry | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Leisure industry     | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Stone quarrying      | - [ ] ok? | - [ ] ok? | - [ ] ok? |
+| Oil refinery         | - [ ] ok? | - [ ] ok? | - [ ] ok? |
 
 - [ ] not working?
 - [ ] working?
