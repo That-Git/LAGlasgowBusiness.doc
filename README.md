@@ -731,3 +731,112 @@ Answer the following questions in sentences on A4 paper.
 * Why are the risks of failure lower for a franchise rather than an independent sole trader?(paragraph 7)(2)
 * What reason is given to suggest that independent sole traders are not able to compete with franchises?(paragraph 9)(1)
 * What 2 factors could pose a threat to pizza franchises?(paragraph 10)(2)
+### <ins>Task 26<ins>
+Marks and Spencer’s plc is one of the longest surviving and best known businesses on the high street today.
+
+[You should visit the website](http://corporate.marksandspencer.com/aboutus/student_info)
+Study the information on the website. Consider such factors as:
+
+| Employment | Customers | Environment |
+| - | - | - |
+| how many people are employed by Marks and Spencer’s? | how many people visit M& S stores in an average week? | how are M&S working to become a more environmentally friendly organisation? |
+
+Take note (on a sheet of A4 paper) of any interesting facts regarding the operation of this business.
+
+Prepare a short Slideshow to record your findings – maximum 4 slides.
+
+Present your findings to the class.
+## PUBLIC SECTOR
+| Central Government | Local Government |
+| - | - |
+| Westminster Government & Scottish Parliament | Local Councils |
+
+### Central Government
+###### The Westminster (Houses of Parliament) and the Scottish Parliament provide important national services such as
+- Health
+- Transport
+- Defence
+###### Finance
+this comes mainly from taxes paid by the public.
+###### Objectives
+- provide a high quality and efficient service (eg, National Health Service);
+- to improve society;
+- to make effective use of taxes.
+
+Central Government is organised and operated by elected politicians. To help achieve its aims and objectives Central government delegates resources and responsibility to Local government.
+### Local Government
+Local Government (Local councils) are set up by central government (Scottish Parliament) and are run on its behalf by locally elected councillors. The day to day running of services is organised by managers and employees of each council. A local council aims to meet the needs of local people and businesses. Local councils do not aim to make profit – rather they are required to provide the most efficient service possible within allocated budgets.
+
+###### Local government functions include the organisation of:
++ education and leisure services - staffing, buildings, museums, pools and sports centres, childcare, psychological services, halls and community facilities, libraries;
++ social work - community care, children and family services;
++ planning and transport - roads, public transport, economic development, flood prevention, development of new buildings;
++ environmental services - refuse collection and disposal, street lighting, food safety, health promotion, animal welfare, maintenance of parks and cemeteries;
++ housing - allocation and maintenance of public housing, homeless provision, rent collection, building new council houses;
++ finance - annual budgets for managing income and spending, financial reports, collection of Council Tax and business rates;
++ information technology – use of ICT across all council services.
+
+It is clear, therefore, that the work of local government has a huge impact on the lives of residents of the area. However, local governments generally have to act within central government policy even if it is something of which they are not particularly in favour. There is constant monitoring of local government activities in an effort to ensure that 'best value' is always being attained.
+###### Finance
+Local governments are financed in a variety of ways:
++ government grants - the main source of local government income. This money comes from the UK government via the Scottish Parliament and accounts for about 40% of total council income;
++ council tax - an amount of money paid by each household based on the value of the property. Each local authority sets its own council tax rate;
++ non-domestic rates - paid by businesses. This is set by the central government and is the same across the country charges for services: such as entrance to leisure facilities, housing rents;
++ the sale of assets - such as council houses.
+### Public Corporations
+These are companies that are owned and controlled by central government. The government appoints a chairperson and board of directors to run the company on the government’s behalf. Examples of Public corporations include the BBC and Royal Mail.
+### VOLUNTARY (THIRD) SECTOR
+These organisations have different aims from those of private sector enterprises. They are ‘not for profit’ organisations and very often their reason for existing is to help a charitable cause in some way.
+#### Charities
+The government regulates the activities of charities and keeps a Register of Charities in the UK. Charities are exempt from paying most taxes. Charities are often set up as trusts with no individual owner, and overall management and control is undertaken by unpaid trustees (people who are placed in a position of trust with the responsibility for looking after the interests of others).
+###### Finance
+* Donations from the public
+* Donations from companies
+* Government grants
+* Lottery Grants
+* Profits from charity shops
+###### Objectives
+* To provide a service
+* To relieve poverty
+* To fund medical research
+* To provide protection to the vulnerable
+#### Voluntary Organisations
+Voluntary organisations are run and staffed by volunteers. Examples include the Scouts, youth clubs, Brownies, sports clubs. They bring together people with similar interests. They are run by a committee of elected volunteers.
+
+These organisations can raise finance by applying for grants from the lottery, Sports Council or local authorities. They may also charge a fee to become a member of their organisation or to use their facilities.
+###### WELL KNOWN CHARITIES
+* Cancer Research UK
+* CHAS
+* Kidney Research UK
+* Save the Children
+* Bernardos
+* UNICEF
+* RSPCA
+* Age Concern
+* Oxfam
+### <ins>Task 27<ins>
+1. Select one of the charities from the diagram above.
+2. Use the Internet (or other sources of information) to research your chosen charity. Find out the charities aims and objectives, achievements to date, how it raises finance and any other relevant information.
+3. Present your findings in a Powerpoint presentation – maximum of 4 slides.
+4. Design a poster (on the computer or on A4 card) to raise awareness of your chosen charity.
+5. Display your poster on the classroom wall.
+### <ins>Task 28<ins>
+#### Progress Check 5 
+Answer the following questions in sentences on A4 paper.
+
+1. Explain the difference between a franchisee and a franchisor.(2)
+2. Starbucks is a well-known franchise. Name 2 other well-known businesses that operate as a franchise.(2)
+3. State 2 advantages and 2 disadvantages for a franchisee.(4)
+4. State who owns a plc and who manages a plc.(2)
+5. Outline the difference between Central Government and Local Government.(4)
+6. List some of the main services provided by Local Government.(4)
+7. Name 2 well known charities and state what causes they support.(4)
+8. Outline some of the ways in which charities finance their organisations?(3)
+
+TOTAL MARKS: 25
+
+Before you submit your work to your teacher, remember to indicate (by ticking the boxes below) that you have self assessed and peer assessed.
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
+
