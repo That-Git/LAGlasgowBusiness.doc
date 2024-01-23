@@ -3,6 +3,7 @@
 A business is a particular type of organisation – one which involves people and resources in the making of a good or the providing of a service. All businesses have a name, a set of aims they wish to achieve, an image, resources and rules.
 ## <ins>Task 1</ins>
 Use the Internet to find out the aims of the following businesses. Record your answers in the table below.
+
 | Name of Business | Aims |
 | ---------------- | ---- |
 | Tesco            |      |
@@ -20,6 +21,7 @@ Once these needs have been satisfied individuals always look for and want more i
 - Ipad
 ## <ins>Task 2</ins>
 Using the table below identify whether the item in column A could be considered to be a NEED or a WANT
+
 | Item                 | Need or Want |
 | -------------------- | ------------ |
 | Water                | Need         |
@@ -51,6 +53,7 @@ Businesses exist to look after or satisfy these NEEDS and WANTS. They make <ins>
 + Public Transport
 ## <ins>Task 3</ins>
 Using the table below, name a business that you use or know of who provides the following goods and services
+
 | Good or Service     | Name of a Business Organisation                        |
 | ------------------- | ------------------------------------------------------ |
 | Holidays            | Thomas Cook                                            |
@@ -65,6 +68,7 @@ Goods are <ins>tangible</ins>, which means they can be seen and physically touch
 Goods and services can be <ins>durable</ins> (long-lasting) or <ins>non-durable</ins> (used up quickly). A cinema is an example of a non-durable service – it provides entertainment in the form of a film for about 2-3 hours on average. After that, the service is no longer available. A television set is an example of a durable good – it should last for a few years, at least.
 ## <ins>Task 4</ins>
 Businesses produce goods or services. Indicate whether the items listed below represents a good or a service. The first one has been done for you.
+
 | Item              | Good or Service |
 | ----------------- | --------------- |
 | Cars              | Good            |
@@ -84,6 +88,7 @@ Some goods and services are durable and other goods and services are non-durable
 * good or service
 * durable or non-durable
 The first one has been done for you.
+
 | Good/Service          | Good/Service | Durable/Non-durable |
 | --------------------- | ------------ | ------------------- |
 | Computer              | Good         | Durable             |
@@ -111,6 +116,7 @@ Try and find the following <ins>key words</ins> in the word search below.
 * INTANGIBLE
 * RESOURCES
 
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | A | N | E | R | Y | L | K | L | J | J  | W  | E  | A  | D  | Q  | M  | F  | H  | Q  | D  |
 | D | Y | E | J | K | L | D | H | J | K  | W  | L  | W  | Q  | J  | H  | T  | W  | K  | U  |
