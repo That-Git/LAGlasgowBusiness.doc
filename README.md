@@ -144,8 +144,43 @@ Try and find the following <ins>key words</ins> in the word search below.
 | E | R | O | T | T | P | Y | H | V | L  | Q  | N  | K  | Q  | Y  | M  | O  | G  | J  | O  |
 | J | Y | P | R | E | S | O | U | R | C  | E  | S  | J  | G  | T  | T  | P  | L  | Y  | R  |
 
-### Business Resource (Factors of Production)
+### <ins>Business Resource (Factors of Production)</ins>
 In order to make a good or provide a service a number of ingredients/resources are required, eg, Land, Labour, Capital and Enterprise. These are also referred to as the FACTORS OF PRODUCTION.
 ## FACTORS OF PRODUCTION
 [<page 7>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/2)
-## <ins>Task 6</ins>
+## <ins>Task 7</ins>
+If you were to make a list of the resources (ingredients) which are required to build a house, your list might include:
+* Wood
+* Joiners
+* Ladders
+* Slates
+* Plot of land
+* Bricks
+* Electricians
+* Plastic
+* Building Company
+* Drill (Frack Frack Frack!)
+* Paint
+* Cement mixers
+* Glass
+* Nails
+* Brick Layers
+Complete the table below by placing each resource under the appropriate heading.
+
+| Land | Labour | Capital | Enterprise |
+| ---- | ------ | ------- | ---------- |
+|      |        |         |            |
+|      |        |         |            |
+|      |        |         |            |
+|      |        |         |            |
+|      |        |         |            |
+|      |        |         |            |
+
+### <ins>Sectors of Industry</ins>
+Businesses exist to produce different goods and services and as such exist in different sectors of industry. There are 3 main sectors as shown in the diagram below.
+* PRIMARY
+* SECONDARY
+* TERTIARY
+Businesses which exist in the primary sector of industry are those that are concerned with using natural resources such as farming, oil drilling, mining, fishing, and forestry. In other words these businesses are concerned with growing products or extracting resources from the ground.
+Businesses which exist in the secondary or manufacturing sector of industry are concerned with the making of products. Manufacturing businesses can take the raw materials from other industries in the primary sector and convert them into different products. For example kellogg’s will purchase crops from farmers to manufacture breakfast cereal.
+Businesses which exist in the tertiary sector do not produce a product. They are concerned with providing services like banking, tourism, beauticians, hairdressers, fitness centres and entertainment like film and TV.
