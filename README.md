@@ -200,22 +200,22 @@ The first one has been completed for you
 
 | Area of Business     | Primary | Secondary | Tertiary |
 | -------------------- | :-----: | :-------: | :------: |
-| Car manufacturing    | - [ ] ? | - [x]     | - [ ]    |
-| Insurance            | - [ ] ? | - [ ]     | - [ ]    |
-| Education            | - [ ] ? | - [ ]     | - [ ]    |
-| Fishing              | - [ ] ? | - [ ]     | - [ ]    |
-| Public transport     | - [ ]   | - [ ]     | - [ ]    |
-| Farming              | - [ ]   | - [ ]     | - [ ]    |
-| Fire service         | - [ ]   | - [ ]     | - [ ]    |
-| Ship building        | - [ ]   | - [ ]     | - [ ]    |
-| Mining               | - [ ]   | - [ ]     | - [ ]    |
-| Wind production      | - [ ]   | - [ ]     | - [ ]    |
-| Forestry             | - [ ]   | - [ ]     | - [ ]    |
-| Hairdressing         | - [ ]   | - [ ]     | - [ ]    |
-| Engineering industry | - [ ]   | - [ ]     | - [ ]    |
-| Leisure industry     | - [ ]   | - [ ]     | - [ ]    |
-| Stone quarrying      | - [ ]   | - [ ]     | - [ ]    |
-| Oil refinery         | - [ ]   | - [ ]     | - [ ]    |
+| Car manufacturing    | - [ ] ? | - [x] ?   | - [ ] ?  |
+| Insurance            | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Education            | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Fishing              | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Public transport     | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Farming              | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Fire service         | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Ship building        | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Mining               | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Wind production      | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Forestry             | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Hairdressing         | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Engineering industry | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Leisure industry     | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Stone quarrying      | - [ ] ? | - [ ] ?   | - [ ] ?  |
+| Oil refinery         | - [ ] ? | - [ ] ?   | - [ ] ?  |
 
 - [ ] not working?
 - [ ] working?
