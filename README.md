@@ -498,3 +498,15 @@ Answer the following questions in sentences on A4 paper
     - mortgage
     - short-term
     - loan
+    
+TOTAL MARKS: 18
+
+Before you submit your work to your teacher, remember to indicate (by ticking the boxes below) that you have self assessed and peer assessed.
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
+## AIMS OF DIFFERENT KINDS OF ORGANISATIONS
+|  | Private Sector | Public Sector | Third/Voluntary Sector |
+| - | - | - | - |
+| Examples | <ul><li>Sole Traders</li><li>Partnerships</li><li>Private Limited Company (Ltd)</li><li>Public Limited Company (plc)</li><ul> | <ul><li>Central Government</li><li>Local Government</li><ul> | <ul><li>Charities</li><li>Social Clubs, eg bowling clubs</li><ul> |
+| Main aims: | <ul><li>spotting a gap in the market</li><li>turning a new idea into a success</li><li>maximising profits</li></ul> | <ul><li>to provide a high quality product/service to all citizens of the country</li><li>to provide essential services such as hospital care, education, defence and police</li><li>provide services which are not entirely profit driven</li></ul> | <ul><li>fund raising to support causes</li><li>raise awareness, eg, famine in Africa</li><li>clubs provide services and facilities for members</li></ul>They do not aim to make a profit, though they may achieve a surplus of income over expenditure. |
