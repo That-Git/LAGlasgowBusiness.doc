@@ -147,5 +147,5 @@ Try and find the following <ins>key words</ins> in the word search below.
 ### Business Resource (Factors of Production)
 In order to make a good or provide a service a number of ingredients/resources are required, eg, Land, Labour, Capital and Enterprise. These are also referred to as the FACTORS OF PRODUCTION.
 ## FACTORS OF PRODUCTION
-<page 7>
+[<page 7>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/2)
 ## <ins>Task 6</ins>
