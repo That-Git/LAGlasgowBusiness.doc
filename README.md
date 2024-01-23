@@ -382,4 +382,49 @@ Before you submit your work to your teacher, remember to indicate (by ticking th
 
 - [ ] Self Assessed
 - [ ] Peer Assessed
+### <ins>Task 15<ins>
+In the table below, column A contains key business words/phrases and column B contains the definitions of key business words/phrases. Your task is to use the table on the next page and write the correct definition opposite the key word/phrase.
+| Key Business Word     | Definition                                                                             |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| Entrepreneur          | Essential goods required for survival.                                                 |
+| Factors of Production | These are goods and services that are not needed for survival.                         |
+| Tangible Goods        | A person who combines the factors of production to set up in business to earn profit.  |
+| Durable Goods         | This refers to tools, machinery and equipment used by a business.                      |
+| Need                  | These can be seen and touched and include things like TV’s and clothes.                |
+| Want                  | An organisation to help and advise people who wish to set up in business.              |
+| Tertiary Sector       | These are provided by hairdressers, travel agents and nurses.                          |
+| Capital               | These can be seen and touched and last for a very long time.                           |
+| Princes Trust         | These are the ‘ingredients’ used for production and include, land, labour and capital. |
+| Services              | This is the sector of the economy responsible for providing services.                  |
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
+
+### <ins>The Business Plan<ins>
+A business plan is a document which outlines the objectives of a business and how it intends to achieve these objectives. These are used mainly when starting out in business. You need to find out if it is financially viable (wise) to actually set the business up in the first place. You will need to work out all your costs and carry out market research on potential customers to find out if sales income will be enough to cover these costs and earn profit.
+
+The entrepreneur can therefore decide whether it is worthwhile going ahead with the business idea or whether the anticipated profit is too low a level to justify financing his/her idea.
+
+It is also likely to be used to convince investors, for example, a Bank Manager to lend the business cash in order to get it started. Banks and other lenders are more likely to lend to entrepreneurs who have been thorough in their planning and research.
+
+<ins>To be convincing, it must therefore contain essential information:</ins>
+
+* <ins>General</ins> details – the name of the business, proposed location and what it is going to produce;
+* <ins>The market</ins> – who are the potential customers?
+* <ins>Human resources</ins> – who will be employed and work for the business?
+* <ins>Finance</ins> – what are the expected costs of running the business, what sales income is expected and what is the expected profit? Also where is the start-up cash coming from, ie, all from the owner/s or partially from a loan?
+
+The Business Plan can also be used when planning for expansion. You may want to redo your business plan with the new costs and benefits – this will help you decide if expansion is the right thing for your business.
+### <ins>Task 16<ins>
+#### <ins>Sample Business Plan<ins>
+##### BUSINESS PLAN OF BANNERMAN ENTERPRISE
+| Areas of a Business Plan | Details under each Area of a Business Plan | example of what our Business Plan would look like |
+| - | - | - |
+| GENERAL DETAILS | <ol><li>Business Name</li><li>Type of Ownership</li><li>What does the business do?</li></ol> | <ol><li>Bannerman Enterprise</li><li>Sole Trader</li><li>Operate in private sector – we sell greetings cards</li></ol> |
+| THE PRODUCT     | Description of goods/USP | Greetings cards, wrapping paper, balloons, mugs, pens and small gifts |
+| HUMAN RESOURCES | Key people and experience/skills, can be displayed on an organisation chart | Marketing dept, Human Resources, Operations dept, Finance dept |
+| PREMISES AND EQUIPMENT | Where is the business to be based, what equipment will be required. | Based in Baillieston Road Glasgow. Equipment required – shop fittings, cash register, motor van. |
+| THE MARKET | <ol><li>Who are the customers?</li><li>Price of the goods services.</li><li>Who are the main competitors?</li><li>Market research results</li></ol> | <ol><li>Consumers of all ages based in the Baillieston area.</li><li>25% mark-up on all goods purchased</li><li>2 other Card shops located within a 25 mile radius.</li><li>Who would buy our products and what price they were willing to pay</li></ol> |
+| FINANCE | <ol><li>Who are the investors and where is the money coming from?</li><li>Estimated cash budget and trading, profit and loss statements.</li><li>Costs and expected revenue</li></ol> | <ol><li>Start up capital invested by sole trader and external financing, eg, bank</li><li>Estimated Cash Budget, T,P and Loss Account and Balance Sheet provided.</li><li>Costs – stock, maintenance, wages and general expenses. Revenue shown on Break-even chart provided.</li></ol> |
+
 
