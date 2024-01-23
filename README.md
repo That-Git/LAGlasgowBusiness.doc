@@ -184,10 +184,11 @@ Businesses exist to produce different goods and services and as such exist in di
 * PRIMARY
 * SECONDARY
 * TERTIARY
-
-Businesses which exist in the primary sector of industry are those that are concerned with using natural resources such as farming, oil drilling, mining, fishing, and forestry. In other words these businesses are concerned with growing products or extracting resources from the ground.
-
-Businesses which exist in the secondary or manufacturing sector of industry are concerned with the making of products. Manufacturing businesses can take the raw materials from other industries in the primary sector and convert them into different products. For example kellogg’s will purchase crops from farmers to manufacture breakfast cereal.
-
-Businesses which exist in the tertiary sector do not produce a product. They are concerned with providing services like banking, tourism, beauticians, hairdressers, fitness centres and entertainment like film and TV.
+1. Businesses which exist in the <ins>primary</ins> sector of industry are those that are concerned with using natural resources such as farming, oil drilling, mining, fishing, and forestry. In other words these businesses are concerned with growing products or extracting resources from the ground.
+2. Businesses which exist in the <ins>secondary</ins> or manufacturing sector of industry are concerned with the making of products. Manufacturing businesses can take the raw materials from other industries in the primary sector and convert them into different products. For example kellogg’s will purchase crops from farmers to manufacture breakfast cereal.
+3. Businesses which exist in the <ins>tertiary</ins> sector do not produce a product. They are concerned with providing services like banking, tourism, beauticians, hairdressers, fitness centres and entertainment like film and TV.
+| SECONDARY SECTOR↓ | TERTIARY SECTOR↑ |
+| :-: | :-: |
+| This sector has declined in the UK. | This sector has increased in the UK.|
+| Today there are fewer firms who actually manufacture a product. | Today there are more businesses that actually provide a service. |
 
