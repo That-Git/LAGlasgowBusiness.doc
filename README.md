@@ -31,14 +31,22 @@ Using the table below identify whether the item in column A could be considered 
 | Life saving medicine |              |
 | Jewellery            |              |
 Businesses exist to look after or satisfy these NEEDS and WANTS. They make <ins>goods</ins> such as food products, shoes, clothes and electrical goods. Some businesses exist to provide <ins>services</ins> like transport, hairdressing, banking, fast-food take-away and holidays.
-| Goods            | Services         |
-| :--------------: | :--------------: |
-| Cars             | Hairdressing     |
-| Washing machines | Car servicing    |
-| CD players       | Insurance        |
-| Sweets           | Banking          |
-| Clothes          | Enterainment     |
-| Seafood          | (eg, cinema      |
-| Shoes            | and theatre)     |
-| Furniture        | Education        |
-| Books            | Public Transport |
+### Goods           
+- Cars            
+- Washing machines
+- CD players      
+- Sweets          
+- Clothes         
+- Seafood         
+- Shoes           
+- Furniture       
+- Books           
+
+### Services
+* Hairdressing
+* Car servicing
+* Insurance
+* Banking
+* Enterainment (eg, cinema and theatre)
+* Education
+* Public Transport
