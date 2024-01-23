@@ -695,3 +695,39 @@ Complete the table below – the first two have been done for you.
 |  |  |  |  |
 |  |  |  |  |
 ### <ins>Task 25<ins>
+Read the following case study on franchising of the pizza delivery business and then answer the following questions on A4 paper.
+#### Delivering Fast Food Franchising
+1. Domino’s Pizza leads the UK market for home delivered pizza and is also the world’s largest franchise for this type of distribution.
+2. Franchising means selling the rights to use a firm’s logos, operating methods and brand name. Other franchised operations include Pizza Hut Express, Perfect Pizza and its partner brand Papa John’s. There is also a flow of newcomers such as EasyPizza and Telepizza. In a market dominated by franchise operations, why is this type of business organisation so successful for numerous pizza brands? And why is franchising the business organisation of choice for many individuals wanting to start their own business.
+###### Franchising or direct control?
+3. PizzaExpress restaurants expanded entirely through franchises during the 1970’s and 1980’s but the owner Gondola plc bought back the contracts in the mid 19990’s. Its objective was to give the company greater control over its brand, outlets and reputation. This has been achieved, but the growth in the business has been almost half of that of franchised operations.
+4. Investment has not been a problem for the Pizza Hut restaurant chain in the UK, with the massive resources of Whitbread funding its growth. However, the company has decided to use the power of franchising to develop its home delivery brand, Pizza Hut Express, as it has identified more growth in this segment. In fact expansion across the country has been achieved almost entirely through franchising. It is believed that there are as many as 2,000 franchisees awaiting approval to own a Domino’s delivery outlet alone.
+
+5. Despite losing some control over the business franchising is a cost-effective way for an organisation to grow. Most of the set-up costs are paid by the franchisee. Additionally the annual franchise fees go straight to the franchising company’s profits. In the case of Domino’s this helped to boost their profits by 35% in 2006 to £8.8 million.
+
+6. Domino’s believes it can achieve a market penetration of over 1,000 franchised units in Britain. An individual Domino’s outlet can serve up to 20,000 homes and, as the UK has around 25 million households, its projected growth and profits may continue for some time to come. The company intends to open 250 new outlets over the next 5 years. Similarly, Perfect Pizza plans to create more than 2,000 jobs in 100 new franchised takeaways and increase its market share to 15%. The company, which already has 200 outlets, intends to carry out the expansion over the next 5 years in the north of England and Scotland.
+
+###### Advantages of Franchising
+
+7. Despite the costs of buying a franchise and territory, business start-ups based on franchising have a far lower failure rate than independent firms. An entrepreneur needs cash of at least £50,000 to start with will-known franchises such as Domino’s and Pizza Hut Express. The associated risks of such a level of investment – and the need to take out additional loans – are reduced because trading strategies and methods have been tried and tested by these established brands.
+### <ins>Task 24<ins>
+
+8. Many young (consumers) people will not use unknown independent outlets. Names and logos such as Pizza Hut and Dominos have wide customer loyalty, ensuring the franchised outlet has immediate demand. Additionally, large franchise businesses have marketing budgets way beyond other independent sole traders. As an example, Domino’s has bought the right to use The Simpsons in its latest promotional campaign; such an investment would be impossible for an small-scale independent sole trader.
+
+9. Television advertising has played a major part in the success of Pizza Hut. To achieve good national exposure requires an investment of at least £500,000; small independent (sole trader) pizza delivery services could never compete at this level.
+
+10. The potential danger for new franchises is the saturation of the pizza delivery market, over-supplied by competing brands. There are also concerns that the increasing concern about high levels of fat in our diet may eventually affect pizza sales.
+
+##### <ins>Questions</ins>
+Answer the following questions in sentences on A4 paper.
+
+* Who leads the market on pizza delivery?(paragraph 1)(1)
+* Explain what is meant by franchising.(paragraph 2)(2)
+* State what other home pizza delivery businesses now operate as a franchisee?(paragraph 2)(5)
+* Why did Pizza Express buy back all franchised outlets?(paragraph 3)(1)
+* How many franchisees are waiting to join Dominos?(paragraph 4)(1)
+* Why is franchising considered a cost-effective way to grow?(paragraph 5)(2)
+* Perfect Pizza plans to open 100 new franchises – how many new jobs will this create?(paragraph 6)(1)
+* Why are the risks of failure lower for a franchise rather than an independent sole trader?(paragraph 7)(2)
+* What reason is given to suggest that independent sole traders are not able to compete with franchises?(paragraph 9)(1)
+* What 2 factors could pose a threat to pizza franchises?(paragraph 10)(2)
