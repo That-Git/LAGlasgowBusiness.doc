@@ -463,4 +463,5 @@ You are lucky enough to have had a small lottery win and have £8,000 to invest 
 | Business Details | Product Details | Market Structure | Marketing Information | Resources Required | Finance Required |
 | - | - | - | - | - | - |
 | <ul><li>Business Name:</li><li>Business Address:</li><li>Business Type:</li></ul> | <ul><li>Product/Service:</li></ul> | <ul><li>Customers:</li><li>Competitors:</li></ul> | <ul><li>Pricing/mark-up:</li><li>Promotion:</li><li>Place it will be sold:</li></ul> | <ul><li>Staff:</li><li>Premises:</li><li>Equipment:</li></ul> | <ul><li>Start up:</li></ul> | <ul><li>Sales Income:</li><li>Costs:</li><li>Estimated Profits:</li></ul> |
+
 Remember to complete your final copy on the computer!
