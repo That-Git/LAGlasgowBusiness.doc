@@ -9,6 +9,7 @@ Use the Internet to find out the aims of the following businesses. Record your a
 | Tesco            |      |
 | Primark          |      |
 | McDonalds        |      |
+
 ## <ins>Needs and Wants</ins>
 We buy the goods and services provided by a range of businesses – we are called consumers. We buy these goods and services to satisfy needs and wants.
 ### To survive we all have basic needs. These include:
@@ -32,6 +33,7 @@ Using the table below identify whether the item in column A could be considered 
 | Holiday to Florida   |              |
 | Life saving medicine |              |
 | Jewellery            |              |
+
 Businesses exist to look after or satisfy these NEEDS and WANTS. They make <ins>goods</ins> such as food products, shoes, clothes and electrical goods. Some businesses exist to provide <ins>services</ins> like transport, hairdressing, banking, fast-food take-away and holidays.
 ### Goods           
 - Cars            
@@ -64,6 +66,7 @@ Using the table below, name a business that you use or know of who provides the 
 | Hairdressers        |                                                        |
 | Television sets     |                                                        |
 | Football matches    | (I wonder which type of football they are refering to) |
+
 Goods are <ins>tangible</ins>, which means they can be seen and physically touched. Services are <ins>intangible</ins>, which means that they cannot be seen or physically touched
 Goods and services can be <ins>durable</ins> (long-lasting) or <ins>non-durable</ins> (used up quickly). A cinema is an example of a non-durable service – it provides entertainment in the form of a film for about 2-3 hours on average. After that, the service is no longer available. A television set is an example of a durable good – it should last for a few years, at least.
 ## <ins>Task 4</ins>
@@ -83,6 +86,7 @@ Businesses produce goods or services. Indicate whether the items listed below re
 | Newspaper         |                 |
 | Mobile phone      |                 |
 | Beautician        |                 |
+
 ## <ins>Task 5</ins>
 Some goods and services are durable and other goods and services are non-durable. Indicate, in the table below, whether the items listed are:
 * good or service
@@ -102,6 +106,7 @@ The first one has been done for you.
 | DVD                   |              |                     |
 | Bicycle               |              |                     |
 | Big Mac and fries     |              |                     |
+
 ## <ins>Task 6</ins>
 Try and find the following <ins>key words</ins> in the word search below.
 * NEED
@@ -138,3 +143,9 @@ Try and find the following <ins>key words</ins> in the word search below.
 | Y | I | Y | L | U | U | Y | E | F | K  | K  | L  | N  | E  | U  | L  | Y  | J  | K  | E  |
 | E | R | O | T | T | P | Y | H | V | L  | Q  | N  | K  | Q  | Y  | M  | O  | G  | J  | O  |
 | J | Y | P | R | E | S | O | U | R | C  | E  | S  | J  | G  | T  | T  | P  | L  | Y  | R  |
+
+### Business Resource (Factors of Production)
+In order to make a good or provide a service a number of ingredients/resources are required, eg, Land, Labour, Capital and Enterprise. These are also referred to as the FACTORS OF PRODUCTION.
+## FACTORS OF PRODUCTION
+<page 7>
+## <ins>Task 6</ins>
