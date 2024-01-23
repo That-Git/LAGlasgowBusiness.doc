@@ -660,3 +660,10 @@ Before you submit your work to your teacher, remember to indicate (by ticking th
 | Shareholders | A person who invests (uses his/her own money) to buy a share in a company. Shareholders jointly own the company. |
 |Board of Directors | A group of highly skilled and professional managers who are appointed by the shareholders (owners) to run the company on their behalf. |
 | Annual Accounts | Statements which are produced once per year and shows the value of the businesses assets and how much profit the business has made in the current year. |
+## FRANCHISE
+A franchise is a business agreement where one business can operate under the name of another business. <ins>The franchisee</ins> pays the <ins>franchisor</ins> a percentage of his/her annual sales or profits or agrees to pay a set fee each year. This then allows the franchisee to operate with the business name (which is usually very well known) and sell the products and services associated with the business name.
+[<page 46>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/4)
+
+| Franchisor | Franchisee |
+| - | - |
+| this is who owns the original business. | this is who has bought the right to use the original business name and enter into trade selling its products. |
