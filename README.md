@@ -217,3 +217,5 @@ The first one has been completed for you
 | Stone quarrying      | - [ ]   | - [ ]     | - [ ]    |
 | Oil refinery         | - [ ]   | - [ ]     | - [ ]    |
 
+- [ ] not working?
+- [ ] working?
