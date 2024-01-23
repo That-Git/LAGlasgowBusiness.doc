@@ -200,8 +200,8 @@ The first one has been completed for you
 
 | Area of Business     | Primary | Secondary | Tertiary |
 | -------------------- | :-----: | :-------: | :------: |
-| Car manufacturing    | <ul><li>[ ]</li></ul>   | - [x]     | <ul><li>[ ]</li></ul>    |
-| Insurance            | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
+| Car manufacturing    | <ul><li>[ ] ?</li></ul>   | <ul><li>[x]</li></ul>     | <ul><li>[ ]</li></ul>    |
+| Insurance            | <ul><li>[ ] ?</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
 | Education            | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
 | Fishing              | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
 | Public transport     | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
