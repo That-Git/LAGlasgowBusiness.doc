@@ -21,7 +21,7 @@ Once these needs have been satisfied individuals always look for and want more i
 ## <ins>Task 1</ins>
 Using the table below identify whether the item in column A could be considered to be a NEED or a WANT
 | Item                 | Need or Want |
-| ---------------------| ------------ |
+| -------------------- | ------------ |
 | Water                | Need         |
 | Computer             |              |
 | House                |              |
@@ -30,7 +30,7 @@ Using the table below identify whether the item in column A could be considered 
 | Holiday to Florida   |              |
 | Life saving medicine |              |
 | Jewellery            |              |
-Businesses exist to look after or satisfy these NEEDS and WANTS. They make goods such as food products, shoes, clothes and electrical goods. Some businesses exist to provide services like transport, hairdressing, banking, fast-food take-away and holidays.
+Businesses exist to look after or satisfy these NEEDS and WANTS. They make <ins>goods</ins> such as food products, shoes, clothes and electrical goods. Some businesses exist to provide <ins>services</ins> like transport, hairdressing, banking, fast-food take-away and holidays.
 | Goods            | Services         |
 | :--------------: | :--------------: |
 | Cars             | Hairdressing     |
