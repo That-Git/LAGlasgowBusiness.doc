@@ -667,3 +667,31 @@ A franchise is a business agreement where one business can operate under the nam
 | Franchisor | Franchisee |
 | - | - |
 | this is who owns the original business. | this is who has bought the right to use the original business name and enter into trade selling its products. |
+
+* The franchisee is joining a popular, established and highly successful business
+* The franchisee must use the franchise logo, colours and store layout
+* Less risky method for the franchisee to set up in business
+* A franchise system is a very quick and efficient way for the franchiser to achieve growth
+* The entire franchise aims to survive
+* The franchisor will provide advice, training and support to the franchisee
+* A franchise allows the franchisor to increase market share (size)
+* If one franchisee makes a mistake and attracts bad publicity it could impact on the entire franchise
+* Profit maximisation is the aim for both the franchisor and franchisee
+* The franchisee pays an annual fee to the franchisor for use of the company name
+* The franchisor will impose restrictions and rules that the franchisee must follow
+* Can be very costly to join (purchase) a successful franchise
+### <ins>Task 24<ins>
+Study the diagram above.
+
+The diagram outlines some of the features, aims, advantages and disadvantages of operating as a franchise.
+
+Working in a group, decide whether each point represents a feature, aim, advantage (to either the franchisor or franchisee) or disadvantage (to the franchisor or franchisee).
+
+Complete the table below – the first two have been done for you.
+| Features | Aims | Pros | Cons |
+| - | - | - | - |
+| The franchisee pays an annual fee to the franchiser for use of the company name |  | The franchisor will provide advice, training and support to the franchisee |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+### <ins>Task 25<ins>
