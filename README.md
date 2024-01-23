@@ -188,8 +188,32 @@ Businesses exist to produce different goods and services and as such exist in di
 2. Businesses which exist in the <ins>secondary</ins> or manufacturing sector of industry are concerned with the making of products. Manufacturing businesses can take the raw materials from other industries in the primary sector and convert them into different products. For example kellogg’s will purchase crops from farmers to manufacture breakfast cereal.
 3. Businesses which exist in the <ins>tertiary</ins> sector do not produce a product. They are concerned with providing services like banking, tourism, beauticians, hairdressers, fitness centres and entertainment like film and TV.
 
-| SECONDARY SECTOR↓ | TERTIARY SECTOR↑ |
-| :-: | :-: |
-| This sector has declined in the UK. | This sector has increased in the UK.|
+| SECONDARY SECTOR↓                                               | TERTIARY SECTOR↑                                                 |
+| :-------------------------------------------------------------: | :--------------------------------------------------------------: |
+| This sector has declined in the UK.                             | This sector has increased in the UK.                             |
 | Today there are fewer firms who actually manufacture a product. | Today there are more businesses that actually provide a service. |
+
+## <ins>Task 7</ins>
+Decide which sector each of the following areas of business should be included – primary, secondary or tertiary.
+
+The first one has been completed for you
+
+| Area of Business     | Primary | Secondary | Tertiary |
+| -------------------- | :-----: | :-------: | :------: |
+| Car manufacturing    | - [ ]   | - [x]     | - [ ]    |
+| Insurance            | - [ ]   | - [ ]     | - [ ]    |
+| Education            | - [ ]   | - [ ]     | - [ ]    |
+| Fishing              | - [ ]   | - [ ]     | - [ ]    |
+| Public transport     | - [ ]   | - [ ]     | - [ ]    |
+| Farming              | - [ ]   | - [ ]     | - [ ]    |
+| Fire service         | - [ ]   | - [ ]     | - [ ]    |
+| Ship building        | - [ ]   | - [ ]     | - [ ]    |
+| Mining               | - [ ]   | - [ ]     | - [ ]    |
+| Wind production      | - [ ]   | - [ ]     | - [ ]    |
+| Forestry             | - [ ]   | - [ ]     | - [ ]    |
+| Hairdressing         | - [ ]   | - [ ]     | - [ ]    |
+| Engineering industry | - [ ]   | - [ ]     | - [ ]    |
+| Leisure industry     | - [ ]   | - [ ]     | - [ ]    |
+| Stone quarrying      | - [ ]   | - [ ]     | - [ ]    |
+| Oil refinery         | - [ ]   | - [ ]     | - [ ]    |
 
