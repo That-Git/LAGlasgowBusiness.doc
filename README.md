@@ -510,3 +510,153 @@ Before you submit your work to your teacher, remember to indicate (by ticking th
 | - | - | - | - |
 | Examples | <ul><li>Sole Traders</li><li>Partnerships</li><li>Private Limited Company (Ltd)</li><li>Public Limited Company (plc)</li><ul> | <ul><li>Central Government</li><li>Local Government</li><ul> | <ul><li>Charities</li><li>Social Clubs, eg bowling clubs</li><ul> |
 | Main aims: | <ul><li>spotting a gap in the market</li><li>turning a new idea into a success</li><li>maximising profits</li></ul> | <ul><li>to provide a high quality product/service to all citizens of the country</li><li>to provide essential services such as hospital care, education, defence and police</li><li>provide services which are not entirely profit driven</li></ul> | <ul><li>fund raising to support causes</li><li>raise awareness, eg, famine in Africa</li><li>clubs provide services and facilities for members</li></ul>They do not aim to make a profit, though they may achieve a surplus of income over expenditure. |
+
+## SOLE TRADER (not to be confused with soul traders)
+A sole trader is a one-owner business (it is owned and controlled by one person). Most small businesses are sole traders, for example, hairdressers or plumbing businesses.
+
+Finance is available from the owner’s own savings, bank loans and government grants.
+
+Sole traders usually aim to survive and maximise profits.
+* One person owns and runs the business
+* Work may stop or business may close if owner is ill
+* Owner is responsible for all business debts (Unlimited Liability)
+* Difficult for owner to get time off
+* Owner gets to make all the decisions
+* Relatively easy to set up
+* Survival and growth
+* May be limited finance available
+* Business accounts are kept private
+* Main aim is to make a profit
+* Owner keeps all the profits
+* If owner dies the business may cease trading
+### <ins>Task 19<ins>
+Study the diagram above.
+
+The diagram outlines some of the features, aims, advantages and disadvantages of being a Sole Trader.
+
+Working in a group, decide whether each point represents a feature, aim, advantage or disadvantage.
+
+Complete the table below – the first two have been done for you.
+
+| Features | Aims | Pros | Cons |
+| - | - | - | - |
+| One person owns and runs the business |  |  | Difficult for owner to get time off |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+## PARTNERSHIP
+A partnership is a business with two to twenty partners – people who own and control the business together. The partners must produce a Partnership Agreement which outlines all the rules and conditions that each partner must adhere to. It also outlines the procedures to be followed when any partner joins, leaves or dies.
+* Between 2 and 20 people own and run the business
+* Partners bring different skills and knowledge
+* Partners are responsible for the debts of the business (Unlimited Liability)
+* Partnerships aim to earn a profit
+* Survival and growth
+* Easier for partners to take time off
+* Disagreement and arguments between partners
+* Workload can be shared between partners
+* May be easier to obtain loans from banks and other lenders
+* Profits have to be shared
+* Partners can specialise in different aspects of the business
+* More capital (money) available
+### <ins>Task 20<ins>
+Study the diagram above.
+The diagram outlines some of the features, aims, advantages and disadvantages of being in a Partnership.
+
+Working in a group, decide whether each point represents a feature, aim, advantage or disadvantage.
+
+Complete the table below – the first two have been done for you.
+
+| Features | Aims | Pros | Cons |
+| - | - | - | - |
+|  | Survival and growth |  | Profits have to be shared |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+## PRIVATE LIMITED COMPANY (Ltd)
+This is a company whose shares are owned privately, ie, shares are not available to the public on the Stock Market. Sometimes they are family owned companies where all members of a family are shareholders, for example, Ryanair, Arnold Clark and Baxters Food Group Ltd. There must be at least one director and a secretary who keeps all company records. Shareholders have <ins>limited liability</ins> meaning they can only lose the value of their shares and not their private assets or belongings.
+* Usually a family owned business
+* Private shareholders own the business
+* The company aims to maximise profits
+* Owners have limited liability – can’t lose personal belongings
+* Cannot sell shares on the stock market
+* Final accounts must be prepared and made available to interested parties
+* Shareholders appoint directors to run the company
+* Control of the company remains within the family and not lost to outsiders
+* Company name ends with Ltd
+* Easier to raise finance from banks and other lenders
+* Profits have to be shared between shareholders
+* Survival and growth
+### <ins>Task 21<ins>
+Complete the table below – the first two have been done for you.
+
+Study the diagram above.
+
+The diagram outlines some of the features, aims, advantages and disadvantages of forming a Private Limited Company.
+
+Working in a group, decide whether each point represents a feature, aim, advantage or disadvantage.
+
+Complete the table below – the first two have been done for you.
+
+| Features | Aims | Pros | Cons |
+| - | - | - | - |
+| Company name ends with Ltd |  |  | Cannot sell shares on the Stock Market |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+## PUBLIC LIMITED COMPANY (plc)
+A public limited company (plc) is a company whose shares are available for purchase by the public on the Stock Market. There must be a minimum of two shareholders and a minimum of £50,000 to start the company. The company is owned by members of the public (shareholders) who appoint a board of directors to manage and control the company on their behalf. Examples include – BT, Vodafone, Tesco, Stagecoach and Celtic FC.
+* Limited liability – shareholders can only lose the values of their shares
+* Public Limited Companies aim to maximise profits
+* Costly and fairly complicated to set up
+* They have no control over who buys shares on the Stock Market
+* Growth and survival
+* Members of the public can buy shares in the company on the Stock Exchange
+* Can become very powerful and dominant businesses
+* Members of the public must be able to access all financial records
+* Name of company ends with the letters plc
+* Owned by shareholders and managed by Board of Directors
+* Easy to borrow huge amounts of money from banks and other lenders
+* Public Limited Companies tend to be large
+### <ins>Task 22<ins>
+Study the diagram above.
+
+The diagram outlines some of the features, aims, advantages and disadvantages of forming a Public Limited Company.
+
+Working in a group, decide whether each point represents a feature, aim, advantage or disadvantage.
+
+Complete the table below – the first two have been done for you.
+
+| Features | Aims | Pros | Cons |
+| - | - | - | - |
+| Members of the public can buy shares in the company on the Stock Exchange |  | Can become very powerful and dominant businesses |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+### <ins>Task 23<ins>
+#### Progress Check 4
+Answer the following questions in sentences on A4 paper.
+
+1. State 2 advantages of operating as a Sole Trader.(2)
+2. Who owns a Public Limited Company and who manages a Public Limited Company?(2)
+3. Shareholders have limited liability. What is meant by the term ‘limited liability’?(1)
+4. Baxters Food Group (Ltd) is an example of a Private Limited Company. Give 2 other examples of a Private Limited Company.(2)
+5. What is the maximum number of people who can operate as a Partnership?(1)
+6. Explain why the partners in a partnership might decide to change to a private limited company?(2)
+7. What are the main aims of businesses that operate in the private sector?(2)
+8. What are the main aims of organisations that operate in the public sector?(2)
+
+TOTAL MARKS: 14
+
+Before you submit your work to your teacher, remember to indicate (by ticking the boxes below) that you have self assessed and peer assessed.
+
+- [ ] Self Assessed
+- [ ] Peer Assessed
+### <ins>Important Definitions<ins>
+| Key Word | Meaning |
+| - | - |
+| Stock Market | Where people buy and sell shares in companies – this is now mainly done on-line |
+| Limited Liability | Investors in a business (company) can only lose the value of the shares they own – their private belongings cannot be taken to pay the company’s debts. |
+| Companies Act | An act of law which sets out rules and procedures which companies must abide by. |
+| Shareholders | A person who invests (uses his/her own money) to buy a share in a company. Shareholders jointly own the company. |
+|Board of Directors | A group of highly skilled and professional managers who are appointed by the shareholders (owners) to run the company on their behalf. |
+| Annual Accounts | Statements which are produced once per year and shows the value of the businesses assets and how much profit the business has made in the current year. |
