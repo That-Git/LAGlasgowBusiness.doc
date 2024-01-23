@@ -200,22 +200,22 @@ The first one has been completed for you
 
 | Area of Business     | Primary | Secondary | Tertiary |
 | -------------------- | :-----: | :-------: | :------: |
-| Car manufacturing    | <ul><li>[ ] ?</li></ul>   | <ul><li>[x]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Insurance            | <ul><li>[ ] ?</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Education            | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Fishing              | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Public transport     | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Farming              | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Fire service         | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Ship building        | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Mining               | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Wind production      | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Forestry             | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Hairdressing         | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Engineering industry | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Leisure industry     | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Stone quarrying      | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
-| Oil refinery         | <ul><li>[ ]</li></ul>   | <ul><li>[ ]</li></ul>     | <ul><li>[ ]</li></ul>    |
+| Car manufacturing    | <ul><li>[ ] ?</li></ul> | <ul><li>[x] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Insurance            | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Education            | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Fishing              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Public transport     | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Farming              | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Fire service         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Ship building        | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Mining               | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Wind production      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Forestry             | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Hairdressing         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Engineering industry | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Leisure industry     | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Stone quarrying      | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
+| Oil refinery         | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> | <ul><li>[ ] ?</li></ul> |
 
 - [ ] not working?
 - [ ] working?
