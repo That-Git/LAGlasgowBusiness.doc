@@ -4,9 +4,9 @@ A business is a particular type of organisation – one which involves people an
 ### <ins>Task 1</ins>
 Use the Internet to find out the aims of the following businesses. Record your answers in the table below.
 
-| Name of Business | Aims |
-| ---------------- | ---- |
-| Tesco            |      |
+| Name of Business                | Aims |
+| ------------------------------- | ---- |
+| Tesco ![Logo](assets/Tesco.png) |      |
 | Primark          |      |
 | McDonalds        |      |
 
