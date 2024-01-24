@@ -336,6 +336,7 @@ There are many sources of help and advice available for small businesses. A grea
 #### <ins>Bank</ins>
 A bank will give financial advice, eg, on how to manage money coming in and going out of your business.
 #### <ins>Enterprise Agency</ins>
+![Business Gateway Logo](assets/BusinessGateway.jpg)
 For example Business Gateway offers free business advice and support service through local advisers. They offer training courses for people wanting to set up a new business and give advice on such things as preparing a business plan.
 #### <ins>Lawyer</ins>
 A lawyer will provide legal advice to keep you on the right side of business law.
