@@ -7,7 +7,7 @@ Use the Internet to find out the aims of the following businesses. Record your a
 | Name of Business                   | Aims |
 | ---------------------------------- | ---- |
 | ![Tesco](assets/Tesco.png)         |      |
-| ![Primark]()          |      |
+| ![Primark](assets/Primark.jpg)          |      |
 | ![McDonalds](assets/McDonalds.jpg) |      |
 
 ## <ins>Needs and Wants</ins>
