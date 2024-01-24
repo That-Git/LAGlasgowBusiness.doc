@@ -710,7 +710,6 @@ Read the following case study on franchising of the pizza delivery business and 
 ###### Advantages of Franchising
 
 7. Despite the costs of buying a franchise and territory, business start-ups based on franchising have a far lower failure rate than independent firms. An entrepreneur needs cash of at least £50,000 to start with will-known franchises such as Domino’s and Pizza Hut Express. The associated risks of such a level of investment – and the need to take out additional loans – are reduced because trading strategies and methods have been tried and tested by these established brands.
-### <ins>Task 24<ins>
 
 8. Many young (consumers) people will not use unknown independent outlets. Names and logos such as Pizza Hut and Dominos have wide customer loyalty, ensuring the franchised outlet has immediate demand. Additionally, large franchise businesses have marketing budgets way beyond other independent sole traders. As an example, Domino’s has bought the right to use The Simpsons in its latest promotional campaign; such an investment would be impossible for an small-scale independent sole trader.
 
