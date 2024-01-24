@@ -4,11 +4,11 @@ A business is a particular type of organisation – one which involves people an
 ### <ins>Task 1</ins>
 Use the Internet to find out the aims of the following businesses. Record your answers in the table below.
 
-| Name of Business                | Aims |
-| ------------------------------- | ---- |
-| Tesco ![Logo](assets/Tesco.png) |      |
-| Primark          |      |
-| McDonalds        |      |
+| Name of Business                   | Aims |
+| ---------------------------------- | ---- |
+| ![Tesco](assets/Tesco.png)         |      |
+| ![Primark]()          |      |
+| ![McDonalds](assets/McDonalds.jpg) |      |
 
 ## <ins>Needs and Wants</ins>
 We buy the goods and services provided by a range of businesses – we are called consumers. We buy these goods and services to satisfy needs and wants.
@@ -37,15 +37,15 @@ Using the table below identify whether the item in column A could be considered 
 
 Businesses exist to look after or satisfy these NEEDS and WANTS. They make <ins>goods</ins> such as food products, shoes, clothes and electrical goods. Some businesses exist to provide <ins>services</ins> like transport, hairdressing, banking, fast-food take-away and holidays.
 #### Goods           
-- Cars            
+- Cars
 - Washing machines
-- CD players      
-- Sweets          
-- Clothes         
-- Seafood         
-- Shoes           
-- Furniture       
-- Books           
+- CD players
+- Sweets
+- Clothes
+- Seafood
+- Shoes
+- Furniture
+- Books
 #### Services
 + Hairdressing
 + Car servicing
