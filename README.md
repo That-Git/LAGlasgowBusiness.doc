@@ -150,7 +150,7 @@ In order to make a good or provide a service a number of ingredients/resources a
 ### FACTORS OF PRODUCTION
 | Land means the natural resources that businesses use – Plot of land, coal, forests, water, wood, fields, rivers etc | \- | Labour means the workforce of a business and includes – Joiners, shop assistants, teachers, clerical staff, electricians, cleaners etc |
 | - | - | - |
-| \| | \| | \| |
+| \| | | \| |
 | Capital means the tools, machinery and equipment that a business owns – Tractors, Lorries, motor vehicles, buildings, factories, tools and equipment etc | \- | Enterprise means the business ideas that an entrepreneur or owner has on how to use land, labour, capital in his or her business to make profit – Richard Branson & Virgin |
 ### <ins>Task 7</ins>
 
