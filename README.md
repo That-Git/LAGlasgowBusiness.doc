@@ -360,7 +360,11 @@ Watch the video clip and study the website and then answer the following questio
 ## <ins>Cycle of Business</ins>
 The process of buying and selling goods is an on-going process. This is the reason that enterprise is a long term process and why many shops have been on the ‘High Street’ for a very long time, for example, Marks and Spencer’s, Next and New Look.
 #### Study the diagram below.
-[<page 19>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/3)
+1. Businesses produce goods and services to meet customers’ wants.
+2. Customers buy goods and services to satisfy their wants.
+3. Wealth is created for businesses and for their employees and owners. 
+4. Customers have money to spend from their wages and want other goods and services. 
+repeat
 ##### STEPS
 1. Entrepreneurs set up in business selling goods and services that consumers need and want.
 2. Consumers use their income and go out to the shops and buy goods and services in order to satisfy their needs and wants.
