@@ -148,13 +148,10 @@ Try and find the following <ins>key words</ins> in the word search below.
 ## <ins>Business Resource (Factors of Production)</ins>
 In order to make a good or provide a service a number of ingredients/resources are required, eg, Land, Labour, Capital and Enterprise. These are also referred to as the FACTORS OF PRODUCTION.
 ### FACTORS OF PRODUCTION
-| Land means the natural resources that businesses use – Plot of land, coal, forests, water, wood, fields, rivers etc | <-> | Labour means the workforce of a business and includes – Joiners, shop assistants, teachers, clerical staff, electricians, cleaners etc |
+| Land means the natural resources that businesses use – Plot of land, coal, forests, water, wood, fields, rivers etc | \- | Labour means the workforce of a business and includes – Joiners, shop assistants, teachers, clerical staff, electricians, cleaners etc |
 | - | - | - |
-| ^ | ^ | ^ |
 | \| | \| | \| |
-| v | v | v |
-| Capital means the tools, machinery and equipment that a business owns – Tractors, Lorries, motor vehicles, buildings, factories, tools and equipment etc | <-> | Enterprise means the business ideas that an entrepreneur or owner has on how to use land, labour, capital in his or her business to make profit – Richard Branson & Virgin |
-[<page 7>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/2)
+| Capital means the tools, machinery and equipment that a business owns – Tractors, Lorries, motor vehicles, buildings, factories, tools and equipment etc | \- | Enterprise means the business ideas that an entrepreneur or owner has on how to use land, labour, capital in his or her business to make profit – Richard Branson & Virgin |
 ### <ins>Task 7</ins>
 
 If you were to make a list of the resources (ingredients) which are required to build a house, your list might include:
