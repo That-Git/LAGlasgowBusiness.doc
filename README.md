@@ -840,3 +840,30 @@ Before you submit your work to your teacher, remember to indicate (by ticking th
 - [ ] Self Assessed
 - [ ] Peer Assessed
 
+#### CUSTOMER SERVICES/CUSTOMER SATISFACTION
+
+##### Overview
+
+To survive, businesses must meet the needs of customers. So what are the needs of customers? Here are some factors which are important to customers:
+
+* Good quality products
+
+* Attractive packaging
+
+* Durability (products that will last)
+
+* Up-to-date, fashionable products
+
+* Good Prices
+
+* Good Image
+
+* Easily available
+
+* Guarantees with the product
+
+* Good after-sales service (refunds if customer is not happy)
+
+Businesses use market research to identify consumer needs/wants. This could be as simple as asking your restaurant customers to fill in a questionnaire commenting on the quality of the food, or the service they received etc. This will allow the restaurant owner to identify any areas of weakness that can be improved on – and thereby satisfy the customers so that they continue to return to the restaurant.
+
+Market research can also help identify gaps in the market, ie, come up with a new idea for a new product or service to satisfy consumer wants. 
