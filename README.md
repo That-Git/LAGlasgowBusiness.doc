@@ -670,7 +670,12 @@ Before you submit your work to your teacher, remember to indicate (by ticking th
 | Annual Accounts | Statements which are produced once per year and shows the value of the businesses assets and how much profit the business has made in the current year. |
 ## FRANCHISE
 A franchise is a business agreement where one business can operate under the name of another business. <ins>The franchisee</ins> pays the <ins>franchisor</ins> a percentage of his/her annual sales or profits or agrees to pay a set fee each year. This then allows the franchisee to operate with the business name (which is usually very well known) and sell the products and services associated with the business name.
-[<page 46>](https://github.com/That-Git/LAGlasgowBusiness.doc/issues/4)
+[![](https://cache.dominos.com/intl/assets/img-logo-home.png)](https://search.babylon.com/imageres.php?iu=http://www.inquisitr.com/wp-content/2012/03/mcdonalds-logo.jpg&ir=http://www.inquisitr.com/212662/woman-sues-mcdonalds-for-turning-her-into-a-prostitute/&ig=http://t0.gstatic.com/images?q=tbn:ANd9GcRQxtVD0gP8CxU5aUNNobxwqmFuoy7jitMuFpFlNDyMDKurIlvZqX-_1tJe&h=415&w=504&q=Mcdonalds&babsrc=HP_ss)
+![](https://static.cdnlogo.com/logos/t/45/the-body-shop.svg)
+![](https://upload.wikimedia.org/wikipedia/sco/d/d2/Pizza_Hut_logo.svg)
+![](https://www.subway.com/en-us/-/media/Project/Remote-Order/Images/Logo/subway-logo.png)
+![](https://upload.wikimedia.org/wikipedia/en/3/35/Starbucks_Coffee_Logo.svg)
+![](https://static.wikia.nocookie.net/logopedia/images/3/3a/Burger_King_Logo.svg/revision/latest?cb=20190130224204)
 
 | Franchisor | Franchisee |
 | - | - |
